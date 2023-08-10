@@ -1,0 +1,15 @@
+
+step1. 
+pred_off_diagnol.py:
+extract off-diagonal information from predicted cmap
+
+step2:
+split '|' to get each position score
+
+step3: 
+projection.py
+project the off-digonal information on digonal
+
+step4:
+Prediction_345.py
+Combine the digonal prediction and off-digonal information

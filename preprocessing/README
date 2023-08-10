@@ -1,0 +1,5 @@
+blast.sh: commands for running blastp for the protein sequences downloaded from RCSB PDB
+extract_blastp.py: redundancy reduction for proteins (threshold:e-value=1e-100)
+minima_spanning_tree.py: cluster algorithms
+partition.py: partition the clusters, ready for cross-validation
+Annotate.py: semantic segmentation annotation for CMAP
