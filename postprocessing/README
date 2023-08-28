@@ -13,3 +13,6 @@ project the off-digonal information on digonal
 step4:
 Prediction_345.py
 Combine the digonal prediction and off-digonal information
+
+Domain recognition/2D domain alignment:
+vector_sim.ipynb
